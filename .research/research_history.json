@@ -3,5 +3,25 @@
   "queries": [
     "memory efficient diffusion",
     "lightweight diffusion architecture"
+  ],
+  "research_study_list": [
+    {
+      "title": "Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models"
+    },
+    {
+      "title": "SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds"
+    },
+    {
+      "title": "Fast and Memory-Efficient Video Diffusion Using Streamlined Inference"
+    },
+    {
+      "title": "Diffusion Probabilistic Model Made Slim"
+    },
+    {
+      "title": "SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds"
+    },
+    {
+      "title": "Plug-and-Play Diffusion Distillation"
+    }
   ]
 }
